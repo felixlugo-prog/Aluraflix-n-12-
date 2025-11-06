@@ -1,11 +1,56 @@
-padding: aapx align-self:
-display: flex:
-justifly.content: center:
+body{
+    background-color: rgb(249, 179, 3);
+    color:aquamarine;
+    front-family
+    margin: opx;
+}
+h1{
+
+    color: black
+    font-size:40px;
 }
 
-.chamada.texto {
-    margin.right: 8
+p{
+fromt-size: 25px;
+}
+header{
+border-bottom: solid 3x rgb(4, 242,190);
+margin: 10px;
+color: chartreuse;
+}
+.chamada{
+    background-color: rgb(104, 104, 252);
+    padding-bottom: 80px;
+padding-top: 80xp;
+display: flex;
+justify-content: center;
 }
 
-lag {
-    heig
+.chamada-texto{
+    margin-right: 8%;
+
+}img{
+    height: 200xp;
+}
+
+.categoria-video{
+    display:flex;
+    overflow-x: auto;
+
+    gap: 15xp;
+padding: 20xp:
+scrollp-behavior: smooth
+}
+
+.categoria-video::-webkit-scrollbar{
+    height: 8xp;
+}
+.categoria-video::-webkit-scrollbar-thumb{
+    background-color: rgb(21, 189, 35);
+    border-radius: 4xp;
+}
+.categoria{
+
+    padding-left: 20px;
+    padding-right: 28xp;
+}
